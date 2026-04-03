@@ -25,6 +25,11 @@
 * [cite_start]**Previsibilidade:** Enquanto a ABB demonstra sinais de degeneração (tendendo a $O(n)$), a AVL garante a complexidade logarítmica $O(\log n)$ e mantém o sistema escalável[cite: 58, 103, 118].
 * [cite_start]**Índice Secundário:** Implementação de uma segunda árvore AVL indexada pelo campo `price`, permitindo buscas instantâneas por critérios multidimensionais[cite: 68, 77, 78, 83].
 
-## 🎓 Autor
-* [cite_start]**Sérgio Guedes Fraga** [cite: 5]
-* **Orientadora:** Profa. Dra. [cite_start]Valéria Farinazzo Martins [cite: 4]
+🎓 Autoria e Orientação
+
+Autor: Sérgio Guedes Fraga 
+Mestrando em Computação Aplicada - Universidade Presbiteriana Mackenzie 
+Orientadora: Profa. Dra. Valéria Farinazzo Martins 
+Instituição: Universidade Presbiteriana Mackenzie 
+Disciplina: Algoritmos e Programação 
+Data da Apresentação: 07/04/2026
