@@ -20,18 +20,18 @@ Os testes práticos confirmaram a eficiência da árvore balanceada para grandes
 
 ![Gráfico de Performance](resultado_performance.png)
 
-## 💡 Análise do "Pulo do Gato"
+## 💡 Análise
 **Eficiência na Inserção:** A AVL foi mais rápida (306 ms) porque a árvore mantida em menor altura agiliza a localização do ponto de inserção, compensando o custo das rotações.
 **Previsibilidade:** Enquanto a ABB demonstra sinais de degeneração (tendendo a O(n)), a AVL garante a complexidade logarítmica O(log n) e mantém o sistema escalável.
 **Índice Secundário:** Implementação de uma segunda árvore AVL indexada pelo campo `price`, permitindo buscas instantâneas por critérios multidimensionais.
 
 🎓 Autoria e Orientação
 
-Autor: Sérgio Guedes Fraga
+Autor: Sérgio Fraga
 
 Mestrando em Computação Aplicada - Universidade Presbiteriana Mackenzie
 
-Orientadora: Profa. Dra. Valéria Farinazzo Martins 
+Orientadora: Profa. Dra. Valéria Farinazzo  
 
 Instituição: Universidade Presbiteriana Mackenzie 
 
